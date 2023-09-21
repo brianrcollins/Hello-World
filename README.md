@@ -20,10 +20,10 @@ Short project description goes here.
 
 ## Installation
 
-Provide instructions on how to install your project here.
+## Usage
 
-```bash
-# Example installation commands
-git clone https://github.com/YourUsername/YourRepository.git
-cd YourRepository
-npm instal
+## Features
+
+## Contributing
+
+## License
