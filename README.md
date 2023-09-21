@@ -1,10 +1,10 @@
 # Your Project Name
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/pulls)
-[![GitHub Forks](https://img.shields.io/github/forks/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/network/members)
-[![GitHub Stars](https://img.shields.io/github/stars/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/stargazers)
+[![License]
+[![GitHub Issues]
+[![GitHub Pull Requests]
+[![GitHub Forks]
+[![GitHub Stars]
 
 Short project description goes here.
 
