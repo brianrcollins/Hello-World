@@ -1,11 +1,6 @@
 # Your Project Name
 
-[![License]
-[![GitHub Issues]
-[![GitHub Pull Requests]
-[![GitHub Forks]
-[![GitHub Stars]
-
+# Project Description
 Short project description goes here.
 
 ![Project Screenshot](/images/screenshot.png)
